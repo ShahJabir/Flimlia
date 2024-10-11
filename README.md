@@ -1,2 +1,2 @@
-# Filmpire
-Filmpire - AI Powered Movie App
+# Filmlia
+Filmlia - AI Powered Movie App
